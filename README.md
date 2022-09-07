@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I'm Maunil, an undergraduate student in mechanical engineering from VJTI, Mumbai.<br />
-Although I come from a core background my interest lies majorly in Robotics and Deep Learning.<br />
+Although I come from a core background, my interest lies majorly in Robotics and Deep Learning.<br />
 I have worked on various kaggle competitions and out of CV, NLP, speech, time-series and GANs, I'm more inclined towards CV.<br /><br />
 Here's what you need to know about me:
 
