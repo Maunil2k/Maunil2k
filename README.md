@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Maunil, an undergraduate student in mechanical engineering from VJTI, Mumbai.<br />
 Although I come from a core background, my interest lies majorly in Robotics and Deep Learning.<br />
-I have worked on various kaggle competitions and out of CV, NLP, speech, time-series and GANs, I'm more inclined towards CV.<br /><br />
+I have worked on various kaggle competitions and out of CV, NLP, speech and time-series, I'm more inclined towards CV.<br /><br />
 Here's what you need to know about me:
 
 - 🔭 I’m currently working/trying to implement vision transformer research paper (An image is worth 16x16 words: Transformers for image recognition at scale). If you're willing to collaborate with me for the same, feel free to reach me out.
