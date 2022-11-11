@@ -6,7 +6,7 @@ Here's what you need to know about me:
 
 - 🔭 I’m currently working/trying to implement vision transformer research paper (An image is worth 16x16 words: Transformers for image recognition at scale) using tensorflow.
 - 🌱 I’m currently learning Linear Algebra and revisiting the concepts of ML.
-- 👯 I’m looking for Data Science FT/ Internship positions. I'm also open for pre-doc research position in the same domain.
+- 👯 I’m looking for Data Science Full Time/ Internship positions. I'm also open for pre-doc research position in the same domain.
 - 📫 How to reach me: [Email](maunilshah@gmail.com), [LinkedIn](https://www.linkedin.com/in/maunil-shah-2987421a7/), [Twitter](https://twitter.com/MaunilShah10), [Kaggle](https://www.kaggle.com/maunilshah)
 
 - 😄 Pronouns: He/Him
